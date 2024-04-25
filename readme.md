@@ -5,8 +5,8 @@ https://github.com/rimo10/ChatPDF/assets/70977847/5edd0326-649c-4005-a534-cbdc50
 Architecture
 ![alt text](assets/architectural_diagram.webp)
 To run this 
-* Create a huggingface account and add your API Key in a `.env` file \n
-* Create a Pinecone account and add pinecone api key and api_env in `.env` file
+* Create a huggingface account and add your API Key in a `.env` file
+* Create a Pinecone account and add pinecone API key and API env in `.env` file
 ```python
 pip install -r requirements.txt
 streamlit run app.py
