@@ -1,5 +1,7 @@
 ## Chatting with your PDFs using Mistral7b LLM and langchain with pinecone vector database
 
+https://github.com/rimo10/ChatPDF/assets/70977847/5edd0326-649c-4005-a534-cbdc501a6987
+
 Architecture
 ![alt text](assets/architectural_diagram.webp)
 To run this 
